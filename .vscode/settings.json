@@ -1,0 +1,12 @@
+{
+    "python.analysis.extraPaths": [
+        "./src"
+    ],
+    "python-envs.pythonProjects": [
+        {
+            "path": "models",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
