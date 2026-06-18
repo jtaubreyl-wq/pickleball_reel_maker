@@ -1,0 +1,32 @@
+# Virtual environments
+.venv/
+.venv-3.10/
+.venv-3.12/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Videos
+videos/
+*.mp4
+*.mov
+*.mp3
+
+# Model weights
+*.pt
+*.pth
+
+# Datasets and outputs
+datasets/
+artifacts/
+output/
+outputs/
+test/output/
+test/outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
