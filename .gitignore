@@ -30,3 +30,10 @@ test/outputs/
 # OS files
 .DS_Store
 Thumbs.db
+
+
+# Misc
+artifacts/
+clips/
+__pycache__/
+*.temp.mp4
